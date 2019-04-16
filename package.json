@@ -1,0 +1,27 @@
+{
+  "name": "react-cruv-basic-structure",
+  "version": "1.0.0",
+  "description": "CRUV is a  directory structure for React projects that escales with you and is prepared for small apps and huge ones.\n\nThis app is only a CRUV demo example.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
